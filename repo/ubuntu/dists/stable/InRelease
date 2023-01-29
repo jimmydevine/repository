@@ -9,36 +9,42 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: jimmydevine software repository
-Date: Sun, 29 Jan 2023 17:44:48 +0000
+Date: Sun, 29 Jan 2023 22:16:47 +0000
 MD5Sum:
+ 232807d6ed61dd8dafb2b605208bd777 425 main/binary-amd64/Packages
+ 466d6fa87d1fc9551db614da612f3825 312 main/binary-amd64/Packages.gz
  232807d6ed61dd8dafb2b605208bd777 425 main/binary-arm64/Packages
  466d6fa87d1fc9551db614da612f3825 312 main/binary-arm64/Packages.gz
- 78bbe4cc14c8bc79eff4f677fc5d7dda 1642 InRelease
+ 486bc55087f9f04a28a72de3b38157b6 2019 InRelease
  d0bef772dd9c43b33d5503453136cf3d 866 Release.gpg
 SHA1:
+ 289f9c9fa4ea6811b87340e095714fa3cd60ead7 425 main/binary-amd64/Packages
+ 6df58db48c1bc9e02ec6d34cac801e6cc8025f83 312 main/binary-amd64/Packages.gz
  289f9c9fa4ea6811b87340e095714fa3cd60ead7 425 main/binary-arm64/Packages
  6df58db48c1bc9e02ec6d34cac801e6cc8025f83 312 main/binary-arm64/Packages.gz
- f1546acc3c9ebc5fc222ea1d4254884f2c0f9595 1642 InRelease
+ d8f496c4e81869799456d15f8147128ee1a2526b 2019 InRelease
  3f5a66797f87e68777d3a7da59634a3d767ab6ae 866 Release.gpg
 SHA256:
+ caff396963cb767962c09d4fd1343b5d30659863b978219303f790bb8bbcc1e3 425 main/binary-amd64/Packages
+ 9b782d83985549e0bfbc675cbc9f7983cbafdc9a9249bc409ae88d9dfa467635 312 main/binary-amd64/Packages.gz
  caff396963cb767962c09d4fd1343b5d30659863b978219303f790bb8bbcc1e3 425 main/binary-arm64/Packages
  9b782d83985549e0bfbc675cbc9f7983cbafdc9a9249bc409ae88d9dfa467635 312 main/binary-arm64/Packages.gz
- 978b3ea30251f2e8809aae5ddd8472dc41acf57b9bacf0fa1fce105115a87e5b 1642 InRelease
+ 991fd4efe6ec80b3ac8af2f9b502e0766d18b374707f5ec71d5995b04abebf22 2019 InRelease
  8504a508f0a81329d95963a93507695c679c4c5a2e8a208be6e6a772eab438ec 866 Release.gpg
 -----BEGIN PGP SIGNATURE-----
 
-iQJKBAEBCgA0FiEEylpU7XEtDeQGRpLcUUTmXxmNooEFAmPWsJAWHGppbW15QGpp
-bW15ZGV2aW5lLmNvbQAKCRBRROZfGY2igdgwEACkw0uOQBBHkcRhu3saXfjKxyu2
-gC2p9FldxG4sVFKlYf2GIuuNLRMkR7WOF1YtMfpalPCthTStgk7vt9REfNn+CkFt
-xyekrT65xxGjToJ1Mvs5fWLhYuV8o7xVZeBZ1o4ymCFaRCIaAPN73WvdnOWBY00F
-8qimkRNSXeAk0Uit6/IqIxRID6D83eKdtndbrt4NKAaf/T4K0l64ea7XIK/r9+F6
-6YhR6R9r2253SB7Z2m2rlLalnOg1sC1ck79YihjaiPF6iK5LXKpCJzomKAeYoM26
-4QUk20Z7C99yl8eFvUFjZzYEVuWDPAhLzuffkRVrSgn5KX9Q/RtuJE+3c7t6M85c
-Iqm5jcOcKiCq+5kfQ5wK054XiypRUCXvIZscG2hL9X/Oaqr3oOw27OFbXZnE4lu/
-7I/zy1lxsixkWkIi2r8DFvMXDoteZ8FdkwjoxBNtvllpRFUvaGOd7ksDP13eVVLl
-XVMNz+81zZnhSKSXCpvUwoNdHeVxcbAon7+5uOyHmhr8+5Hz7TwjgynQj/x1pBRg
-m4jWRT9T5xz2KlHqfvrPXYbNfhIpkr1P9dGntpDWu1zpzLnp+FlLPbwL2v1dnzo2
-cgyqlC3dhoCx3EG5u6k0RhxewcijRayhqR/vT5p+LyvwwqhJYCsecNF9kSvlYEkO
-OuppEXKMg3WRjZluCw==
-=Gu5O
+iQJKBAEBCgA0FiEEylpU7XEtDeQGRpLcUUTmXxmNooEFAmPW8E8WHGppbW15QGpp
+bW15ZGV2aW5lLmNvbQAKCRBRROZfGY2igahQEACCl6wRuYQ4RYP8FP3ok/03o2/p
+0NwFsYZizSqOP1aiQO/TElT/Maq9JENvFZiPcx6d99Z2UwkFfoKo6JtStExDZXww
+/peldFUSqEZulE8695hpgiFyZuVPaymY/ZxIRstVWS9IWiI3njHJ8qaf7uHBwsr7
+AgLStkGiyXqOXJE5adYre4ubuHKvA8+g4uzPV3yKonYlTxMC+10Hl5tsx5NfJAdj
+BZlhh/sLkxcYfbbo/VTaloFlxxTkjfbYaVfgKrEqe4Mw2AsRC4Uu3MUhC2Hn0lys
+rMgKl6NgsQFWil87k0a29sT3tXU65+pzfzYkkJ4Rl0o5ZIeGjO7ZRro7WUw4AqAO
+gVKb+c9JqtL99fDda+XLaf6KirX+uacUvpxMIpkzQBxxSsvhETLaEI2be1UtF+RK
+J8vzRh+/5Cxl5zf9Ak/bpTpvWhQoBYtpxGH6S+lYTNNuqyHx0rt5qlqJNQbCXAth
+icOeihQJVHVCHQLdJY7e6uA4q7KkH04IFkU6pgyHF8rZyqLxc9PWOdzIy6vrlr3Q
+JO3yQw0oc+/vJYabT2vbXlm9J9DuE7NV15seVq9X7M4lt2C359/Caro5uMMXeU9y
+dA8wBrUFnoNy/9puBXz9l7KPkfwUkAKi9aQGCyhqCPkZuzT/Hv9jRz8q0JNkCuoR
+MkKyPUoQ+M4uL5bBLg==
+=4eBG
 -----END PGP SIGNATURE-----
