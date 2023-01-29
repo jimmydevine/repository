@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: jimmydevine Repository
+Label: jimmydevine
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: jimmydevine software repository
+Date: Sun, 29 Jan 2023 16:10:09 +0000
+MD5Sum:
+ 558ead0c6880bceb744e318b84d46320 425 main/binary-arm64/Packages
+ 8d83bfd0513a438f9d4f635a198311b7 313 main/binary-arm64/Packages.gz
+SHA1:
+ 842b0f3b67bff6645493ac18f65ee9172805dc19 425 main/binary-arm64/Packages
+ 9f43f5c4d5340e50b58de8c519cdab101b9e4a8b 313 main/binary-arm64/Packages.gz
+SHA256:
+ 278a86c1cd10b5edc224a4168dbd344abeb52952ce13a3187a46bb2ac4a4ee5a 425 main/binary-arm64/Packages
+ 6f6e185393437187c776622709ebdefcebe7721224d9c97768a21924d5e9f2ea 313 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEEylpU7XEtDeQGRpLcUUTmXxmNooEFAmPWn9kWHGppbW15QGpp
+bW15ZGV2aW5lLmNvbQAKCRBRROZfGY2igbR2EADKCJDFb/uW3TqRkZomj5gHsCvI
+5jb96OePsgyYqtzwBLF83bxYdXxw+WRw9ebMEsw+Xnfz77ALsFduFwNGfvwX7Q/y
+fwex0xiVWilHF6cxn0melTv9V5c4zZdlAGr7fqP0aueh3R2svP0avVZ9kk7dIE1O
+iJNRhGXiPav/CIkLGkpdTmSQXPbnWxFdNth7fF66PdYo+uKC8krRsctDfHWY694M
+GNV+rZWqSyNYYp0M7AtuK+voTuts3sTrJ3Dwik2xnLhts7nc6MIH6gyN1V+6KwxH
+vLatfK5uLx9oNfGe2/3aNuP2PI4CGkSK3YzM5Y9sCiEciDQxTxNlTTTOajjZkzPD
+FbB99ex7KF/mPWzob9iTXNt8Eoi6jHkjmhTzD83XQHBrYJj5oAZIzq/Y3IHSyyTM
+9rye5w/De/5q907FMM/n4IGDE3A5O38DvMYr+bPvxQplI6rX+Qk4pjS9bFQpTpzO
+5iHU1+XXjmSHhulxzoZ6Ke/p95lmE2TwuZ1aBZJfL6fd2C5IWgIIiYrCSzwZlaMv
+TQKjbshXEgQxqKomo8xcuyHFT4uZN4PcxRX0UlwIT7GHcCqZDLjXklBQ03tRmv4/
+M6YNd5qr3/tj+T2WnSHkxlBlA3fbbeTbYF+aKTpHo7o5WZ1v4rhWQsgEey2qpAAV
+ZoYVH5U//I0YdZ2V9A==
+=L1ou
+-----END PGP SIGNATURE-----
