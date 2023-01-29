@@ -6,13 +6,19 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: jimmydevine software repository
-Date: Sun, 29 Jan 2023 16:10:09 +0000
+Date: Sun, 29 Jan 2023 17:44:48 +0000
 MD5Sum:
- 558ead0c6880bceb744e318b84d46320 425 main/binary-arm64/Packages
- 8d83bfd0513a438f9d4f635a198311b7 313 main/binary-arm64/Packages.gz
+ 232807d6ed61dd8dafb2b605208bd777 425 main/binary-arm64/Packages
+ 466d6fa87d1fc9551db614da612f3825 312 main/binary-arm64/Packages.gz
+ 78bbe4cc14c8bc79eff4f677fc5d7dda 1642 InRelease
+ d0bef772dd9c43b33d5503453136cf3d 866 Release.gpg
 SHA1:
- 842b0f3b67bff6645493ac18f65ee9172805dc19 425 main/binary-arm64/Packages
- 9f43f5c4d5340e50b58de8c519cdab101b9e4a8b 313 main/binary-arm64/Packages.gz
+ 289f9c9fa4ea6811b87340e095714fa3cd60ead7 425 main/binary-arm64/Packages
+ 6df58db48c1bc9e02ec6d34cac801e6cc8025f83 312 main/binary-arm64/Packages.gz
+ f1546acc3c9ebc5fc222ea1d4254884f2c0f9595 1642 InRelease
+ 3f5a66797f87e68777d3a7da59634a3d767ab6ae 866 Release.gpg
 SHA256:
- 278a86c1cd10b5edc224a4168dbd344abeb52952ce13a3187a46bb2ac4a4ee5a 425 main/binary-arm64/Packages
- 6f6e185393437187c776622709ebdefcebe7721224d9c97768a21924d5e9f2ea 313 main/binary-arm64/Packages.gz
+ caff396963cb767962c09d4fd1343b5d30659863b978219303f790bb8bbcc1e3 425 main/binary-arm64/Packages
+ 9b782d83985549e0bfbc675cbc9f7983cbafdc9a9249bc409ae88d9dfa467635 312 main/binary-arm64/Packages.gz
+ 978b3ea30251f2e8809aae5ddd8472dc41acf57b9bacf0fa1fce105115a87e5b 1642 InRelease
+ 8504a508f0a81329d95963a93507695c679c4c5a2e8a208be6e6a772eab438ec 866 Release.gpg

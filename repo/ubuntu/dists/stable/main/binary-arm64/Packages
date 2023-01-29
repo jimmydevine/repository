@@ -1,13 +1,13 @@
 Package: libjimmy-cpp-types-dev
-Version: 0.0.1
+Version: 0.0.2
 Architecture: arm64
 Maintainer: Jimmy Devine
-Installed-Size: 28
-Filename: pool/main/libjimmy-cpp-types-dev_0.0.1_all.deb
-Size: 2122
-MD5sum: 3ebb94e2910ac3ab115d4c61ffa61872
-SHA1: ee36fab39ed515d536e4218ade0bd710b9f45c74
-SHA256: f4ec33c368ac86175be5e4faa35b4479175954774a0f900de5121d82ac3dc86e
+Installed-Size: 32
+Filename: pool/main/libjimmy-cpp-types-dev_0.0.2_all.deb
+Size: 2640
+MD5sum: 0a9030ab0050ed51500d2ab4924b2db1
+SHA1: 4f5a16ccceab4c1a7527c98af4b8edcbad6ad132
+SHA256: 23a7b239395f2869bd25619c6431fd4c1a6d8408ffa1ab5eebb6030873a41984
 Section: devel
 Priority: optional
 Description: libjimmy-cpp-types built using CMake
