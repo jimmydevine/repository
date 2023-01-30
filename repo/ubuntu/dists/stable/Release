@@ -6,25 +6,25 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: jimmydevine software repository
-Date: Sun, 29 Jan 2023 23:05:11 +0000
+Date: Mon, 30 Jan 2023 00:06:26 +0000
 MD5Sum:
- 26de6fbe40ea4d1a8dc57efc0a249816 423 main/binary-amd64/Packages
- 90dcf31ac31abafffedaf7117a80c6b3 313 main/binary-amd64/Packages.gz
- 26de6fbe40ea4d1a8dc57efc0a249816 423 main/binary-arm64/Packages
- 90dcf31ac31abafffedaf7117a80c6b3 313 main/binary-arm64/Packages.gz
- fdf2d34727b2a7c191201b45cd30689a 2498 InRelease
+ 97bb32edaac9907c554f1bf713979486 423 main/binary-amd64/Packages
+ 2ca5f3a2c8a49ee4a58b288fc82afd73 311 main/binary-amd64/Packages.gz
+ 97bb32edaac9907c554f1bf713979486 423 main/binary-arm64/Packages
+ 2ca5f3a2c8a49ee4a58b288fc82afd73 311 main/binary-arm64/Packages.gz
+ 118299218fe235fcb97fb99a42b3a473 2498 InRelease
  d0bef772dd9c43b33d5503453136cf3d 866 Release.gpg
 SHA1:
- b2bfb7e8cdb7b2b30f936bf21ec66b2fe756a476 423 main/binary-amd64/Packages
- 25f35dcc3e1102edbc9c6a17c63922c32fac8e2b 313 main/binary-amd64/Packages.gz
- b2bfb7e8cdb7b2b30f936bf21ec66b2fe756a476 423 main/binary-arm64/Packages
- 25f35dcc3e1102edbc9c6a17c63922c32fac8e2b 313 main/binary-arm64/Packages.gz
- 11bea09d835258e686ef2747a45e896c1796ab22 2498 InRelease
+ 62afc1b0cc9cb96b15f6328489e75f2a51d5851a 423 main/binary-amd64/Packages
+ 4679b08ece0fc61f1bdc8fb99bd1a681fdca4bd8 311 main/binary-amd64/Packages.gz
+ 62afc1b0cc9cb96b15f6328489e75f2a51d5851a 423 main/binary-arm64/Packages
+ 4679b08ece0fc61f1bdc8fb99bd1a681fdca4bd8 311 main/binary-arm64/Packages.gz
+ d6fa31fa61cd5f3633b7db7dc767d3fa943f9781 2498 InRelease
  3f5a66797f87e68777d3a7da59634a3d767ab6ae 866 Release.gpg
 SHA256:
- 3e630f3884575925ffa642e28e784da00effd04bb2605c42c479393445011560 423 main/binary-amd64/Packages
- 3183b5c3ed27e87bf3d28b0275d355bf01c3b854ea2a58ffabd429e3f65ca8a3 313 main/binary-amd64/Packages.gz
- 3e630f3884575925ffa642e28e784da00effd04bb2605c42c479393445011560 423 main/binary-arm64/Packages
- 3183b5c3ed27e87bf3d28b0275d355bf01c3b854ea2a58ffabd429e3f65ca8a3 313 main/binary-arm64/Packages.gz
- 4ba9297ff9ae35e3591780ba9c1d5513882e20e4cde40552931efd24deeb1ad4 2498 InRelease
+ cb58e103bc7378aeb1b74f7312f7776dc21d31695844792561fa35b01970e9b6 423 main/binary-amd64/Packages
+ 0bf00f7578c78da43aef9bacf28d9dee0e244c408180b64e350e5258f3a7d9ea 311 main/binary-amd64/Packages.gz
+ cb58e103bc7378aeb1b74f7312f7776dc21d31695844792561fa35b01970e9b6 423 main/binary-arm64/Packages
+ 0bf00f7578c78da43aef9bacf28d9dee0e244c408180b64e350e5258f3a7d9ea 311 main/binary-arm64/Packages.gz
+ 88d2006209e629b553c8fd7a24d735a2365d4d5754db0474371656388cc86f7a 2498 InRelease
  8504a508f0a81329d95963a93507695c679c4c5a2e8a208be6e6a772eab438ec 866 Release.gpg
