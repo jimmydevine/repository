@@ -1,5 +1,7 @@
 #!/bin/sh
 
+export GNUPGHOME=~/repository-private
+
 cd ubuntu/
 
 # package
